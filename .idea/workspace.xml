@@ -38,6 +38,7 @@
       <change afterPath="$PROJECT_DIR$/example-8/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/example-8/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai-tap-ngay-1/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai-tap-ngay-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai-tap-ngay-1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai-tap-ngay-1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
@@ -95,7 +96,7 @@
       <workItem from="1603967929115" duration="4582000" />
       <workItem from="1604023722742" duration="7343000" />
       <workItem from="1604246912161" duration="583000" />
-      <workItem from="1604279745443" duration="8263000" />
+      <workItem from="1604279745443" duration="8463000" />
     </task>
     <servers />
   </component>
