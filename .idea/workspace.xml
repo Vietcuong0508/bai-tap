@@ -6,15 +6,6 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
@@ -46,8 +37,10 @@
       <change afterPath="$PROJECT_DIR$/example-8/composer.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/example-8/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/example-8/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai-tap-ngay-1/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai-tap-ngay-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai-tap-ngay-1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai-tap-ngay-1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/bai-tap-ngay-1/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai-tap-ngay-1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +78,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\Bai-tap" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,7 +95,7 @@
       <workItem from="1603967929115" duration="4582000" />
       <workItem from="1604023722742" duration="7343000" />
       <workItem from="1604246912161" duration="583000" />
-      <workItem from="1604279745443" duration="7932000" />
+      <workItem from="1604279745443" duration="8263000" />
     </task>
     <servers />
   </component>
