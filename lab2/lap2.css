@@ -1,0 +1,22 @@
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-family: Tahoma;
+}
+span {
+    color: red;
+}
+.mauxanh {
+    color: green;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+ul {
+    font-family: Consolas;
+}
+li {
+    font-family: Consolas;
+}
