@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Đăng Nhập</title>
+    <title>Quên Mật Khẩu</title>
     <style>
         * {
             box-sizing: border-box;
@@ -65,13 +65,6 @@
 
         [class*="col-"] {
             width: 100%;
-        }
-        .a {
-            text-align: center;
-        }
-
-        .b {
-            border-top: 1px solid black;
         }
 
         @media only screen and (min-width: 600px) {
@@ -183,16 +176,10 @@
             <div class="col-5">
             </div>
             <div class="col-2">
-                <input type="text" name="email" id="email" placeholder="Email hoặc số điện thoại">
-                <input type="password" name="password" placeholder="Mật khẩu">
-                <input type="submit" value="Đăng nhập">
-                <a href="nhap-mail-sdt.html" class="a">Quên Mật khẩu ?</a>
-            </div>
-        </div>
-        <div class="row b">
-            <div class="col-5"></div>
-            <div class="col-2">
-                <input type="submit" value="Tạo tài khoản mới">
+                <input type="password" name="password" placeholder="Mật khẩu cũ">
+                <input type="password" name="password" placeholder="Mật khẩu mới">
+                <input type="password" name="password" placeholder="Mhập lại mật khẩu mới">
+                <input type="submit" value="Xác nhận">
             </div>
         </div>
     </form>
