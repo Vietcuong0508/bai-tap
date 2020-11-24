@@ -1,0 +1,127 @@
+* {
+    font-family: Tahoma, arial;
+    font-size: 15px;
+}
+
+body {
+    margin: 0 12%;
+}
+
+header {
+    height: 70px;
+}
+
+footer {
+    height: 50px;
+}
+
+.logo {
+    float: left;
+}
+
+.logo img {
+    width: 60px;
+    float: left;
+}
+
+.logo-text {
+    float: left;
+    margin: 20px 10px;
+}
+
+.menu {
+    float: right;
+}
+
+ul li {
+    display: inline;
+    margin: 0 10px;
+    list-style-type: none;
+}
+
+li a img {
+    float: left;
+    width: 37px;
+    border-radius: 50%;
+}
+
+li a img:hover {
+    animation-name: logo-flash;
+    animation-duration: 0.5s;
+}
+
+li a span {
+    float: left;
+    margin: 10px;
+}
+
+li a span:hover {
+    color: red;
+}
+
+.slogan {
+    background-color: #84aed7;
+    border: 1px solid #000;
+    color: #fff;
+    padding: 5px 40px;
+}
+
+.slogan blockquote {
+    text-align: center;
+    font-style: italic;
+}
+
+.slogan-author {
+    text-align: right;
+}
+
+article {
+    display: inline-block;
+    width: 28%;
+    height: 200px;
+    margin: 12px;
+    padding: 5px;
+    border: 1px solid #d6d6d6;
+    border-radius: 10px;
+    overflow: auto;
+}
+
+.article-img {
+    margin: 10px;
+    width: 100px;
+    float: left;
+}
+
+.article-img img {
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
+}
+
+.article-title {
+    font-weight: bold;
+    margin: 3px 0;
+}
+
+footer {
+    text-align: center;
+    background-color: #84aed7;
+    border: 1px solid #000;
+    color: #fff;
+    padding: 5px 40px;
+}
+
+.clear-both {
+    clear: both;
+}
+
+@keyframes logo-flash {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0.3;
+    }
+}
+
+

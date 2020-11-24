@@ -11,16 +11,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54802fc3-4922-4291-88da-a1ac2b33f453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/form/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lap6/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-11/garen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-11/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-11/jarvan-VI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-11/leesin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-11/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dang-ki/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dang-ki/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/character.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/khoi-dau-js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/khoi-dau-js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transform/dsThiLai.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transform/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transform/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transform/text.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lap6/Screenshot 2020-11-08 220646.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lap6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lap6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lap6/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lap6/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +37,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -50,6 +58,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thuc-hanh" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -62,6 +71,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\Bai-tap\16-11" />
       <recent name="C:\Users\Admin\WebstormProjects\Bai-tap\lap6" />
       <recent name="C:\Users\Admin\WebstormProjects\Bai-tap\test" />
       <recent name="C:\Users\Admin\WebstormProjects\Bai-tap\lab2" />
@@ -90,7 +100,20 @@
       <workItem from="1604883783116" duration="13227000" />
       <workItem from="1604916316950" duration="607000" />
       <workItem from="1604922918199" duration="768000" />
-      <workItem from="1604975353657" duration="4437000" />
+      <workItem from="1604975353657" duration="5434000" />
+      <workItem from="1604989593359" duration="2000" />
+      <workItem from="1605000407330" duration="3021000" />
+      <workItem from="1605007037330" duration="1391000" />
+      <workItem from="1605026146016" duration="86000" />
+      <workItem from="1605057991232" duration="9771000" />
+      <workItem from="1605229967616" duration="13147000" />
+      <workItem from="1605432159848" duration="1452000" />
+      <workItem from="1605490265147" duration="9283000" />
+      <workItem from="1605662967747" duration="5111000" />
+      <workItem from="1605674884312" duration="757000" />
+      <workItem from="1606094408729" duration="4892000" />
+      <workItem from="1606139548204" duration="7000" />
+      <workItem from="1606208911586" duration="86000" />
     </task>
     <servers />
   </component>
@@ -110,14 +133,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="523" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604406914896">
+    <state x="523" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605001116059">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="523" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604406914896" />
+    <state x="523" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1605001116059" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604846357408">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604846357408" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606208971605">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606208971605" />
+    <state x="563" y="115" key="RollbackChangesDialog" timestamp="1605672675465">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605672675465" />
+    <state x="514" y="181" width="551" height="596" key="dock-window-1" timestamp="1606096726911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="181" width="551" height="596" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1606096726911" />
+    <state x="93" y="93" width="1350" height="638" key="dock-window-2" timestamp="1605059934702">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1605059934701" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1604978868426">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -1,10 +1,144 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        input[type=text], select {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        input[type=password], select {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        input[type=number], select {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        input[type=radio], select {
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        input[type=email], select {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        input[type=image], select {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        input[type=date], select {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        input[type=submit], input[type=button] {
+            width: 100%;
+            background-color: #4CAF50;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        input[type=submit]:hover, input[type=button]:hover {
+            background-color: #45a049;
+        }
+
+        div.container {
+            border-radius: 5px;
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+
+        .msg-error {
+            color: red;
+            padding: 10px;
+        }
+
+    </style>
 </head>
 <body>
-$END$
+<h3>Login</h3>
+<div class="container">
+    <form action="#" name="login-form">
+        <label>First Name</label>
+        <input type="text" name="firstname" placeholder="Your first name">
+        <div class="msg-error"></div>
+        <label>Last Name</label>
+        <input type="text" name="lastname" placeholder="Your last name">
+        <div class="msg-error"></div>
+        <label>Password</label>
+        <input type="password" name="password" placeholder="Enter your password">
+        <div class="msg-error"></div>
+        <label>Address</label>
+        <input type="text" name="address" placeholder="Your address">
+        <div class="msg-error"></div>
+        <label>Phone</label>
+        <input type="number" name="phone" placeholder="Your Number phone">
+        <div class="msg-error"></div>
+        <label>Avatar</label>
+        <input type="text" name="avatar" placeholder="Your avatar" alt="">
+        <div class="msg-error"></div>
+        <label>Gendel :</label>
+        <input type="radio" name="gender" placeholder="Your gender"> male
+        <input type="radio" name="gender" placeholder="Your gender"> female
+        <input type="radio" name="gender" placeholder="Your gender"> other
+        <div class="msg-error"></div>
+        <label>Email</label>
+        <input type="email" name="email" placeholder="Your email">
+        <div class="msg-error"></div>
+        <label>Birthday</label>
+        <input type="date" name="birthday" placeholder="Your birthday">
+        <input type="button" name="btnSubmit" value="Submit">
+    </form>
+</div>
+<script src="form.js"></script>
 </body>
 </html>
