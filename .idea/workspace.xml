@@ -11,23 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54802fc3-4922-4291-88da-a1ac2b33f453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/16-11/garen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-11/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-11/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-11/jarvan-VI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-11/leesin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-11/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dang-ki/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dang-ki/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/character.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/khoi-dau-js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/khoi-dau-js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transform/dsThiLai.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transform/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transform/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transform/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yt/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yt/yt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yt/yt.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +46,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thuc-hanh" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -114,6 +102,20 @@
       <workItem from="1606094408729" duration="4892000" />
       <workItem from="1606139548204" duration="7000" />
       <workItem from="1606208911586" duration="86000" />
+      <workItem from="1606236289034" duration="486000" />
+      <workItem from="1606267235241" duration="58000" />
+      <workItem from="1606267359946" duration="324000" />
+      <workItem from="1606267839000" duration="215000" />
+      <workItem from="1606276721878" duration="2202000" />
+      <workItem from="1606442003419" duration="1489000" />
+      <workItem from="1606449078867" duration="265000" />
+      <workItem from="1606450582792" duration="870000" />
+      <workItem from="1606464565376" duration="14000" />
+      <workItem from="1606464607237" duration="655000" />
+      <workItem from="1606471439314" duration="551000" />
+      <workItem from="1606472231053" duration="206000" />
+      <workItem from="1606472451974" duration="77000" />
+      <workItem from="1606479236807" duration="644000" />
     </task>
     <servers />
   </component>
@@ -141,10 +143,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604846357408" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606208971605">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606471489286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606208971605" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606471489286" />
     <state x="563" y="115" key="RollbackChangesDialog" timestamp="1605672675465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
