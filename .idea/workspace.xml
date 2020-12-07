@@ -11,11 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54802fc3-4922-4291-88da-a1ac2b33f453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/yt/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yt/yt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yt/yt.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -115,7 +111,12 @@
       <workItem from="1606471439314" duration="551000" />
       <workItem from="1606472231053" duration="206000" />
       <workItem from="1606472451974" duration="77000" />
-      <workItem from="1606479236807" duration="644000" />
+      <workItem from="1606479236807" duration="1325000" />
+      <workItem from="1606528962674" duration="18000" />
+      <workItem from="1606700990756" duration="1067000" />
+      <workItem from="1606704271154" duration="1237000" />
+      <workItem from="1606708974252" duration="48000" />
+      <workItem from="1606834265485" duration="946000" />
     </task>
     <servers />
   </component>
@@ -143,10 +144,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604846357408" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606471489286">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606528969694">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606471489286" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606528969694" />
     <state x="563" y="115" key="RollbackChangesDialog" timestamp="1605672675465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
