@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="54802fc3-4922-4291-88da-a1ac2b33f453" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +56,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\Bai-tap\project" />
       <recent name="C:\Users\Admin\WebstormProjects\Bai-tap\16-11" />
       <recent name="C:\Users\Admin\WebstormProjects\Bai-tap\lap6" />
       <recent name="C:\Users\Admin\WebstormProjects\Bai-tap\test" />
       <recent name="C:\Users\Admin\WebstormProjects\Bai-tap\lab2" />
-      <recent name="C:\Users\Admin\WebstormProjects\Bai-tap" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -117,6 +118,7 @@
       <workItem from="1606704271154" duration="1237000" />
       <workItem from="1606708974252" duration="48000" />
       <workItem from="1606834265485" duration="946000" />
+      <workItem from="1607336378731" duration="641000" />
     </task>
     <servers />
   </component>
